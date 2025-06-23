@@ -7,20 +7,31 @@ This repository contains the source code for ShopNest, an e-commerce website des
 # Features
 
 **Categories:** Browse products across multiple categories like Clothing, Footwear, Jewelry, Perfume, Cosmetics, Glasses, and Bags.
+
 **Product Showcase:** Display of best sellers, new arrivals, trending items, and top-rated products with prices and discounts.
+
 **Deals of the Day:** Highlighted offers with countdown timers for urgency.
+
 **Newsletter Subscription:** Option to subscribe for the latest product and discount updates.
+
 **Testimonials:** Customer reviews to build trust.
+
 **Services:** Information on worldwide delivery, next-day delivery, online support, return policy, and money-back offers.
+
 **Blog Section:** Latest articles related to fashion, electronics, and more.
-**Multi-Language and Currency Support: **Options to switch between English, Español, Français, and currencies like USD and EUR.
+
+**Multi-Language and Currency Support:** Options to switch between English, Español, Français, and currencies like USD and EUR.
+
 **Responsive Design:** Built to adapt to various screen sizes.
 
 # Technologies Used
 
 **HTML5:** Structure of the webpage.
+
 **CSS:** Styling (assumed to be in an external file like style-prefix.css).
+
 **JavaScript:** Dynamic functionality (assumed in script.js).
+
 **Icons:** IonIcons for interactive elements.
 
 # Installation
@@ -36,17 +47,24 @@ Open index.html in a web browser to view the website locally.
 # Usage
 
 Explore the website by navigating through the menu for different categories.
+
 Add products to the cart (functionality depends on the linked JavaScript file).
+
 Subscribe to the newsletter for updates.
+
 Check the footer for contact information and social media links.
+
 
 # Contributing
 Contributions are welcome! Please follow these steps:
 
 # Fork the repository.
 Create a new branch (git checkout -b feature-branch).
+
 Make your changes and commit them (git commit -m "Description of changes").
+
 Push to the branch (git push origin feature-branch).
+
 Open a pull request.
 
 # License
@@ -61,6 +79,7 @@ For any inquiries, reach out at:
 # Acknowledgments
 
 Inspired by modern e-commerce designs.
+
 Icons provided by IonIcons.
 
 # Demo
